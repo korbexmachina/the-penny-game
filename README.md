@@ -19,3 +19,4 @@ Run the game with
 ## Requirements
 
 - Python 3.9.12 or higher
+(It is almost definitely compatible with older versions of python 3, but I tested it on 3.9.12)
